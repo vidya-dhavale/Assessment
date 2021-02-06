@@ -1,0 +1,18 @@
+The goodies selected for distributed:
+
+Item [name=MI Band, price=999]
+Item [name=Sandwich Toaster, price=2195]
+Item [name=Cult Pass, price=2799]
+
+And the difference between the chosen goodies with hiest price and lowest peice is999The goodies selected for distributed:
+
+Item [name=MI Band, price=999]
+Item [name=Sandwich Toaster, price=2195]
+Item [name=Cult Pass, price=2799]
+
+And the difference between the chosen goodies with hiest price and lowest peice is999The goodies selected for distributed:
+
+Item [name=Fitbit Plus, price=7980]
+Item [name=Microwave Oven, price=9800]
+
+And the difference between the chosen goodies with hiest price and lowest peice is7980
